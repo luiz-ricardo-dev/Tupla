@@ -1,0 +1,14 @@
+C:\Users\usuario\Desktop\Projetos\Tupla\bin\Debug\net8.0\Tupla.exe
+C:\Users\usuario\Desktop\Projetos\Tupla\bin\Debug\net8.0\Tupla.deps.json
+C:\Users\usuario\Desktop\Projetos\Tupla\bin\Debug\net8.0\Tupla.runtimeconfig.json
+C:\Users\usuario\Desktop\Projetos\Tupla\bin\Debug\net8.0\Tupla.dll
+C:\Users\usuario\Desktop\Projetos\Tupla\bin\Debug\net8.0\Tupla.pdb
+C:\Users\usuario\Desktop\Projetos\Tupla\obj\Debug\net8.0\Tupla.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\usuario\Desktop\Projetos\Tupla\obj\Debug\net8.0\Tupla.AssemblyInfoInputs.cache
+C:\Users\usuario\Desktop\Projetos\Tupla\obj\Debug\net8.0\Tupla.AssemblyInfo.cs
+C:\Users\usuario\Desktop\Projetos\Tupla\obj\Debug\net8.0\Tupla.csproj.CoreCompileInputs.cache
+C:\Users\usuario\Desktop\Projetos\Tupla\obj\Debug\net8.0\Tupla.dll
+C:\Users\usuario\Desktop\Projetos\Tupla\obj\Debug\net8.0\refint\Tupla.dll
+C:\Users\usuario\Desktop\Projetos\Tupla\obj\Debug\net8.0\Tupla.pdb
+C:\Users\usuario\Desktop\Projetos\Tupla\obj\Debug\net8.0\Tupla.genruntimeconfig.cache
+C:\Users\usuario\Desktop\Projetos\Tupla\obj\Debug\net8.0\ref\Tupla.dll
